@@ -24,7 +24,7 @@ The project consists of a few files:
 
 ## Requirements
 
-- PostreSQL 14
+- PostgreSQL 14
 
 ## Installation
 
@@ -43,7 +43,7 @@ The project consists of a few files:
    - salaries
    - dept_emp
    - dept_manager
-5. (option 2) Run **EmployeeDB-insert-data.sql** to import all data automatically
+5. (option 2) Run **EmployeeSQL/EmployeeDB-insert-data.sql** to import all data automatically
 
 ## Usage
 
