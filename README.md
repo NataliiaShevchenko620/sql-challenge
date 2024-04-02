@@ -11,7 +11,7 @@ The project consists of a few files:
 2. **EmployeeSQL/schema.txt** - text representation of the database schema created using the tool above
 3. **EmployeeSQL/EmployeeDB-schema.sql** - SQL file with DDL statements to create a structure of Employee DB. This script at the beginning contains commands to clean up the database, therefore it can be run both against empty and non-empty database
 4. **EmployeeSQL/data** - a set of CSV files with source data
-5. **EmployeeDB-insert-data.sql** - SQL script that performs filling out the tables with data. Data is a the same as in the CSV files
+5. **EmployeeSQL/EmployeeDB-insert-data.sql** - SQL script that performs filling out the tables with data. Data is a the same as in the CSV files
 6. **EmployeeSQL/EmployeeDB-analysis.sql** - SQL file with queries that performs the following analytics:
    - List the employee number, last name, first name, sex, and salary of each employee.
    - List the first name, last name, and hire date for the employees who were hired in 1986.
