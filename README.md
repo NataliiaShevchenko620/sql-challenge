@@ -3,6 +3,8 @@
 This project is designed to address a comprehensive data challenge related to designing and creating a modern employee database using PostgreSQL database instead of legacy CSV files. 
 The project is divided into three key areas: Data Modeling, Data Engineering, and Data Analysis. The challenge involves working with CSV files to create a relational database model, importing data into a database, and performing various data analysis queries.
 
+![schema](EmployeeSQL/schema.png)
+
 ## Project Structure
 
 The project consists of a few files:
